@@ -1,0 +1,186 @@
+html{
+height: 100%;
+}
+
+body, input{
+  font-family: "IRANSans", IRANSans;
+  font-weight: 100;
+}
+
+body{
+  dir: "rtl";
+}
+
+body, html {
+  height: 100%;
+}
+
+.background1{
+  height: 100%;
+  position: relative;
+  background: linear-gradient(to left, rgba(1,138,190,0.5), rgba(1,138,190,0.8));
+  /*background: url("../img/bg-pattern.png"), rgba(1,138,190,1);*/
+  /*background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, rgba(1,138,190,0.6), rgba(1,138,190,0.8));*/
+  /*background: url("../img/bg-pattern.png"), linear-gradient(to left, rgba(1,138,190,0.6), rgba(1,138,190,0.8));*/
+
+  /*background: url("../img/bg-pattern.png"), #7b4397;*/
+  /*background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);*/
+  /*background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);*/
+
+
+  /*background: url("../img/World Map.jpg") no-repeat center center;*/
+}
+
+.background2{
+  height: 100%;
+  position: relative;
+  background: linear-gradient(to left, rgba(190, 0, 23, 0.7), rgba(190, 0, 23, 0.8));
+
+}
+
+.background3{
+  height: 100%;
+  position: relative;
+  background: linear-gradient(to left, rgba(133, 133, 133, 1), rgba(133, 133, 133, 0));
+
+}
+
+/*.layer{*/
+  /*!*background-color: rgba(18, 156, 172,0.7);*!*/
+  /*background-color: #018abe;*/
+  /*position: absolute;*/
+  /*top: 0;*/
+  /*left: 0;*/
+  /*width: 100%;*/
+  /*height: 100%;*/
+/*}*/
+
+.form-control{
+  padding:20px 50px;
+  text-align: center;
+}
+
+.Landing_Header{
+  color: white;
+}
+
+.logo{
+  height: 50px;
+  align: right;
+}
+.btn{
+  padding:10px 20px;
+}
+.btn-info{
+  background-color: #018abe;
+}
+.btn-primary{
+  color: #018abe;
+  background-color: white;
+}
+.btn-navbar{
+  float: left;
+}
+
+/*Click to down*/
+.fa-angle-double-down{
+  font-size:40px;
+  color: #018abe;
+}
+
+
+/*2nd background pictures*/
+.second_back_pics{
+  font-size: 100px;
+  }
+
+.fa-thumbs-up{
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+}
+
+.fa-money-bill-alt{
+  color: #1aa507;
+}
+
+.fa-dollar-sign{
+  color: darkblue;
+}
+
+.fa-home{
+  color: orange;
+}
+
+.underline{
+  color: #013040;
+  opacity: 1;
+  font-weight: 500;
+}
+
+/*.Second_Background_Items{*/
+  /*color: yellow;*/
+  /*height: 1px;*/
+/*}*/
+
+/*third back pics*/
+.third_back_pics{
+  font-size: 120px;
+  color:black;
+}
+
+.JoinUs{
+  background-color: #018abe;
+}
+
+.Footer{
+  background-color: black;
+}
+
+.footer-heading{
+  color: white;
+  font-weight: 300;
+  font-size: 17px;
+}
+
+.footer-item{
+  color:#c7c7c7;
+  list-style: none;
+  font-weight: 200;
+  font-size: 14px;
+}
+
+.footer-items{
+  padding: 0;
+}
+/*.First_Page_Link{*/
+  /*color: #018abe;*/
+  /*text-align: center;*/
+  /*font-size:30px;*/
+  /*font-weight: 200;*/
+/*}*/
+.social-button{
+  font-size: 50px;
+  color: yellow;
+}
+
+h2{
+  font-size: 70px;
+  font-weight: 500;
+  text-align: center;
+  color: #018abe;
+}
+
+.Why_WishWork{
+  color: black;
+  font-size: 70px;
+  font-weight: 500;
+  text-align: center;
+
+}
+#email{
+  text-align: center;
+}
